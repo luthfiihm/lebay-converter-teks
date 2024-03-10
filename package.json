@@ -1,0 +1,24 @@
+{
+  "name": "lebay-converter-teks",
+  "version": "1.0.0",
+  "description": "lebay conveter teks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luthfiihm/lebay-converter-teks.git"
+  },
+  "keywords": [
+    "converter",
+    "teks",
+    "lebay"
+  ],
+  "author": "luthfihm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luthfiihm/lebay-converter-teks/issues"
+  },
+  "homepage": "https://github.com/luthfiihm/lebay-converter-teks#readme"
+}
